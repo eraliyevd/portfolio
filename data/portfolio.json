@@ -1,0 +1,161 @@
+{
+  "profile": {
+    "name": "Eraliyev Doniyor",
+    "role": "Mechanical Engineering Student & AI Developer",
+    "tagline": "Building intelligent systems at the intersection of engineering and technology.",
+    "bio": "I'm a Mechanical Engineering student with a deep passion for artificial intelligence and bot development. I bridge the gap between physical systems and intelligent software, designing solutions that matter. Currently preparing to apply to the world's top universities where I can push the boundaries of what's possible.",
+    "image": "/images/profile.svg",
+    "email": "doniyor@example.com",
+    "telegram": "@doniyor_dev",
+    "location": "Uzbekistan",
+    "university_goal": "Aspiring to top global universities",
+    "cv_link": "#"
+  },
+  "about": {
+    "headline": "Engineering meets intelligence.",
+    "paragraphs": [
+      "I'm a Mechanical Engineering student who fell in love with the elegance of code. What started as curiosity about automation grew into a full commitment to AI and bot development \u2014 building systems that think, adapt, and solve real problems.",
+      "My work spans physical simulation, intelligent automation, and conversational AI. I believe the future belongs to engineers who can speak both the language of machines and the language of algorithms.",
+      "When I'm not studying thermodynamics or training models, I'm designing sleek tools that help people work smarter. I'm driven by a single question: how can this be better?"
+    ],
+    "values": [
+      "Precision",
+      "Curiosity",
+      "Impact",
+      "Elegance"
+    ]
+  },
+  "education": [
+    {
+      "id": "edu1",
+      "institution": "Tashkent State Technical University",
+      "degree": "Bachelor of Science \u2014 Mechanical Engineering",
+      "period": "2022 \u2013 Present",
+      "gpa": "3.9 / 4.0",
+      "highlights": [
+        "Dean's List",
+        "Robotics Club Lead",
+        "AI Research Group Member"
+      ]
+    },
+    {
+      "id": "edu2",
+      "institution": "Online & Self-Directed Learning",
+      "degree": "AI & Machine Learning Specialization",
+      "period": "2021 \u2013 Present",
+      "gpa": "",
+      "highlights": [
+        "Deep Learning",
+        "NLP & Transformers",
+        "Python & PyTorch",
+        "Bot Architecture"
+      ]
+    }
+  ],
+  "skills": {
+    "engineering": [
+      "Mechanical Design",
+      "CAD/SolidWorks",
+      "FEA Analysis",
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "programming": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "C++"
+    ],
+    "ai_ml": [
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "PyTorch",
+      "TensorFlow",
+      "LangChain"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "Telegram Bot API",
+      "REST APIs",
+      "Next.js",
+      "FastAPI"
+    ],
+    "languages": [
+      "Uzbek (Native)",
+      "Russian (Fluent)",
+      "English (Advanced)"
+    ]
+  },
+  "projects": [
+    {
+      "id": "proj1",
+      "title": "AI Study Assistant Bot",
+      "description": "A Telegram bot powered by GPT-4 that helps students organize study plans, answer engineering questions, and generate quizzes from uploaded materials.",
+      "tags": [
+        "Python",
+        "Telegram API",
+        "GPT-4",
+        "FastAPI"
+      ],
+      "github": "https://github.com/doniyor/study-assistant-bot",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": "proj2",
+      "title": "Mechanical Simulation Dashboard",
+      "description": "A web dashboard for visualizing FEA simulation results, built with Next.js. Engineers can upload simulation data and instantly view stress distribution maps.",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "D3.js",
+        "Python"
+      ],
+      "github": "https://github.com/doniyor/mech-sim-dashboard",
+      "demo": "https://mech-sim.vercel.app",
+      "featured": true
+    },
+    {
+      "id": "proj3",
+      "title": "Smart Expense Tracker Bot",
+      "description": "A Telegram bot that tracks personal expenses using NLP to parse natural language inputs. Generates weekly reports and spending analytics.",
+      "tags": [
+        "Python",
+        "NLP",
+        "Telegram API",
+        "SQLite"
+      ],
+      "github": "https://github.com/doniyor/expense-tracker-bot",
+      "demo": "",
+      "featured": false
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert1",
+      "title": "Deep Learning Specialization",
+      "issuer": "DeepLearning.AI / Coursera",
+      "date": "2023",
+      "image": "/certificates/placeholder.svg",
+      "link": "https://coursera.org/verify/example"
+    },
+    {
+      "id": "cert2",
+      "title": "Python for Everybody",
+      "issuer": "University of Michigan / Coursera",
+      "date": "2022",
+      "image": "/certificates/placeholder.svg",
+      "link": "https://coursera.org/verify/example2"
+    },
+    {
+      "id": "cert3",
+      "title": "Machine Learning with PyTorch",
+      "issuer": "IBM / Coursera",
+      "date": "2023",
+      "image": "/certificates/placeholder.svg",
+      "link": "https://coursera.org/verify/example3"
+    }
+  ]
+}
