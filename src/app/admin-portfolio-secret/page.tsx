@@ -5,7 +5,7 @@ import { useSiteSettings } from '@/hooks/useSiteSettings'
 import { saveSettings, type SiteSettings, type Project, type Certificate } from '@/lib/settings'
 import { uploadImage } from '@/lib/upload'
 
-const CREDS = { username: 'doniyor', password: 'portfolio2024' }
+const CREDS = { username: '1', password: '1' }
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
 const uid = () => Math.random().toString(36).slice(2, 10)
